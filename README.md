@@ -9,11 +9,9 @@ Assessor de Projetos no Centro Acadêmico de Ciência da Computação.
 
 Competidor de Programação Competitiva, com participação na Fase Regional da ICPC e no TOPCOM.
 
-Foco atual: Integração de LLMs em fluxos de trabalho, Análise de Dados e Automação.
+### Foco atual : Integração de LLMs em fluxos de trabalho, Análise de Dados e Automação.
 
-Tecnologias e Ferramentas
-
-Linguagens: Python,C,SQL
+### Linguagens: Python,C,SQL
 
 # Projetos em Destaque
 
